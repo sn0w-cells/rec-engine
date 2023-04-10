@@ -4,7 +4,7 @@ This project is called [insert project name here]. It is a [insert brief project
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Web-App Sample Image](#webappsampleimage)
+- [Web-App Sample Image](#web-app sample image)
 
 ## Introduction
 This is a content-based recommendation engine that provides personalized recommendations to users based on their preferences and interests. The recommendation engine uses the content of the items being recommended, such as their descriptions or features, to determine which items are most relevant to a particular user.
