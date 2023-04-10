@@ -15,6 +15,8 @@ In this project, we have implemented a content-based recommendation engine using
 
 ## Image
 Sample Image for webapp when deployed will look like the following image.
+
+
 ![Capture](https://user-images.githubusercontent.com/111629598/230932211-47c927e6-6683-448b-ba97-3dbef0532223.PNG)
 
 
