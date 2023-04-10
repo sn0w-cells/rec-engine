@@ -1,4 +1,4 @@
-Project Name
+# Project Name
 This project is called [insert project name here]. It is a [insert brief project description here].
 
 Table of Contents
