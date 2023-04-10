@@ -1,21 +1,24 @@
 # Project Name
 This project is called [insert project name here]. It is a [insert brief project description here].
 
-Table of Contents
-Project Name
-Table of Contents
-Installation
-Usage
-Contributing
-License
-Installation
-To use this project, you need to install [insert required software here]. You can do this by [insert installation instructions here].
+## Table of Contents
 
-Usage
-Once you have installed the required software, you can use this project by [insert usage instructions here]. If you have any issues, please consult the [insert project documentation here] or submit an issue to the [insert project repository here].
+- [Introduction](#introduction)
+- [Image](#image)
 
-Contributing
-Contributions to this project are welcome! If you would like to contribute, please [insert contribution guidelines here].
+## Introduction
+This is a content-based recommendation engine that provides personalized recommendations to users based on their preferences and interests. The recommendation engine uses the content of the items being recommended, such as their descriptions or features, to determine which items are most relevant to a particular user.
 
-License
-This project is licensed under the [insert license name here] license. For more information, please see the LICENSE file.
+Content-based recommendation engines are a popular approach to recommendation systems because they do not require user data or historical usage data to generate recommendations. Instead, they rely on the attributes of the items being recommended and the preferences of the user to create personalized recommendations.
+
+In this project, we have implemented a content-based recommendation engine using Python and various libraries such as scikit-learn, pandas, and numpy. The engine uses natural language processing techniques to extract features from the textual content of the items being recommended, and then applies machine learning algorithms to generate personalized recommendations for each user.
+
+## Image
+Sample Image for webapp when deployed will look like the following image.
+![Capture](https://user-images.githubusercontent.com/111629598/230932211-47c927e6-6683-448b-ba97-3dbef0532223.PNG)
+
+
+
+
+
+
