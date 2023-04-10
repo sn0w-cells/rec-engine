@@ -1,17 +1,20 @@
 # Project Name
-This project is called [insert project name here]. It is a [insert brief project description here].
+This project is called Recommendation Engine. This is a content-based recommendation engine that provides personalized recommendations to users based on their preferences and interests. The recommendation engine uses the content of the items being recommended, such as their descriptions or features, to determine which items are most relevant to a particular user.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Description](#description)
 - [Web-App Sample Image](#web-appsampleimage)
 
-## Introduction
-This is a content-based recommendation engine that provides personalized recommendations to users based on their preferences and interests. The recommendation engine uses the content of the items being recommended, such as their descriptions or features, to determine which items are most relevant to a particular user.
+## Description
+A content-based filtering recommendation system is a type of recommendation system that suggests items to users based on their preferences and interests. This type of system uses the content of the items being recommended, such as their descriptions, features, or attributes, to determine which items are most relevant to a particular user.
 
-Content-based recommendation engines are a popular approach to recommendation systems because they do not require user data or historical usage data to generate recommendations. Instead, they rely on the attributes of the items being recommended and the preferences of the user to create personalized recommendations.
+Content-based filtering works by building a user profile based on their previous interactions or explicit feedback, and then using natural language processing (NLP) techniques to extract features from the textual content of the items. These features are then used to train a machine learning algorithm, such as k-nearest neighbors (KNN) or support vector machines (SVM), which generates personalized recommendations for each user.
 
-In this project, we have implemented a content-based recommendation engine using Python and various libraries such as scikit-learn, pandas, and numpy. The engine uses natural language processing techniques to extract features from the textual content of the items being recommended, and then applies machine learning algorithms to generate personalized recommendations for each user.
+The key advantage of content-based filtering is that it can make recommendations for new items that have no previous interactions or feedback. This approach also has some limitations, such as the inability to capture user preferences that are not reflected in the content, and the potential for over-recommending items that are very similar to previous choices.
+
+Overall, content-based filtering is a useful approach for recommendation systems when there is a large amount of content data available and when the focus is on providing personalized recommendations based on the user's interests and preferences.
+
 
 ## Web-App Sample Image
 Sample Image for webapp when deployed will look like the following image.
